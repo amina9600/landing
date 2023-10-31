@@ -1,0 +1,17 @@
+.banner {
+  height: 50%;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: whitesmoke;
+  text-shadow: 5px 5px rgba(128, 128, 128, 0.312);
+}
+
+.banner p {
+  color: whitesmoke;
+  font-size: 18px;
+  text-shadow: 2px 2px rgba(128, 128, 128, 0.312)
+}
